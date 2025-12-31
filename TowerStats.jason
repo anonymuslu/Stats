@@ -1,6 +1,6 @@
 {
     "Freddy": {
-        "Type": "Single",
+        "Type": "AOE",
         "Image": "rbxassetid://16620053009",
         "Rarity": "Uncommon",
         "PlacePrice": 300,
@@ -14,9 +14,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 40,
+                "Damage": 30000,
+                "Cooldown": 0.001
             },
             {
                 "Price": 500,
