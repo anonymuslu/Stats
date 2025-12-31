@@ -15396,6 +15396,7 @@
         "PlacePrice": 1100,
         "Offset": 0,
         "Max": 5,
+	    "Passive": {"Name": "Mega Virus", "Description": "Attacks apply Mega Virus marking up to 5 enemies causing 20% Auto Execute. When a marked enemy is hit again, Mega Virus triggers dealing +652% damage, 2.8s True Stun and 45% Auto Execute (15% to Bosses/Imps)."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
